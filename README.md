@@ -1,6 +1,6 @@
 # Koha-Instalador
 
-#### Um script automatizado para configurar o Koha em SO Linux. Testado em Ubuntu 22.04 e 24.04.
+#### Um script automatizado para instalação local do Koha. Testado em Ubuntu 22.04 e 24.04.
 
 <img src="https://github.com/felipe-riobranco/Koha-Instalador/blob/main/instalador_koha.png" width="500" />
 
@@ -16,7 +16,7 @@ Para que a instalação ocorra corretamente, o sistema Linux Ubuntu 22.04 ou 24.
 
 #### Instalação:
 
-Você pode baixar o script diretamente do repositório ou utilizar o seguinte comando de uma linha, sem a necessidade de dependências adicionais:
+Você pode baixar o script diretamente do repositório ou utilizar o seguinte comando:
 
 ```bash
 sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/felipe-riobranco/Koha-Instalador/refs/heads/main/koha2024_install.sh)"
